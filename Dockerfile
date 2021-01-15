@@ -1,1 +1,2 @@
-FROM nginx
+FROM ubuntu
+CMD "Hello docker!"
