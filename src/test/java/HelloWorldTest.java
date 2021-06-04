@@ -18,4 +18,10 @@ public class HelloWorldTest {
         HelloWorld.sayHi();
     }
 
+    @Test
+    public void sayYes() {
+
+        HelloWorld.sayYes();
+    }
+
 }
