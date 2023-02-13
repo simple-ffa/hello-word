@@ -15,7 +15,7 @@ public class HelloWorld {
 
 
     public static void sayFine() {
-        System.out.println("fine");
+        System.out.println("fine moss");
     }
 
 
