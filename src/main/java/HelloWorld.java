@@ -10,7 +10,7 @@ public class HelloWorld {
     }
 
     public static void sayHi() {
-        System.out.println("hi");
+        System.out.println("hi 550w");
     }
 
 
